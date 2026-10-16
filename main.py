@@ -7,3 +7,7 @@
 # ignore the files too that you dont want to get tracked 
 # .gitkeep - let you keep an empty file into git 
 # branching 
+# tags 
+
+
+print("This is my first commit")
